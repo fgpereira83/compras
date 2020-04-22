@@ -1,8 +1,10 @@
-package compras;
+package com.algaworks.compras;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.algaworks.compras.config.AppConfig;
 
 public class Main {
 

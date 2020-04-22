@@ -1,4 +1,4 @@
-package compras;
+package com.algaworks.compras;
 
 public interface Impressora {
 	

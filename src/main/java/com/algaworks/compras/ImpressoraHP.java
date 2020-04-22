@@ -1,5 +1,8 @@
-package compras;
+package com.algaworks.compras;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class ImpressoraHP implements Impressora{
 	
 	
